@@ -1,2 +1,2 @@
 # docker-compose-pg
-Docker compose with PosgreSQL, PgAdmin and PostGraphile
+Docker compose with PostgreSQL, PgAdmin and PostGraphile
